@@ -3,9 +3,9 @@
   box-sizing: border-box;
 }
 
-/* html {
+html {
   height: 100%;
-} */
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
@@ -322,5 +322,10 @@ h2 {
 
   embed {
     display: none;
+  }
+
+  footer {
+    height: 20vh;
+    background-color: #28363d;
   }
 }
