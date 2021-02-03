@@ -335,9 +335,10 @@ h2 {
 @media (max-width: 35rem) {
 
   embed {
-    max-width: 19rem;
-    max-height: 38rem;
-    margin-left: 0.2rem;
-    margin-right: 0.2rem;
+    display: none;
+  }
+
+  quiz {
+    height: 100%;
   }
 }
