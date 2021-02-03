@@ -192,6 +192,10 @@ h2 {
   padding: 0;
 }
 
+#quiz-container {
+  background-color: #99aead;
+}
+
 .choice-container {
   display: flex;
   flex-direction: row;
