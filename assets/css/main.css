@@ -186,28 +186,11 @@ h2 {
   flex-direction: column;
   /* width: 100vw; */
   max-width: 50vw;
-  height: 100vh;
+  height: 100%;
   margin-left: 1rem;
   margin-bottom: 2rem;
   padding: 0;
 }
-/* 
-.btn-play {
-  margin-top: 2rem;
-  background-color: #658b6f;
-  color: #28363d;
-  border-radius: 0.5rem;
-  font-size: 1.2rem;
-  font-weight: bold;
-  padding: 0 4px 4px 0;
-  border: none;
-}
-
-.btn-play:hover {
-  background-color: #c4cdc1;
-  cursor: crosshair;
-  box-shadow: 0 0.4rem 1.4rem 0 #404d5b;
-} */
 
 .choice-container {
   display: flex;
@@ -336,9 +319,5 @@ h2 {
 
   embed {
     display: none;
-  }
-
-  #quiz {
-    height: 100%;
   }
 }
