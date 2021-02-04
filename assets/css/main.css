@@ -165,7 +165,7 @@ h2 {
 }
 
 .pp__item a:hover,
-.pp__item a:focus {
+.pp__item a:active {
 	-webkit-transform: scale(0.8333);
   transform: scale(0.8333);
   color: #c4cdc1;
