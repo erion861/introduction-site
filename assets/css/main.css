@@ -299,7 +299,7 @@ h2 {
   /* main content */
 
   body {
-    font-size: 1rem;
+    font-size: 1rem !important; 
   }
   
   #main {
@@ -313,8 +313,7 @@ h2 {
   }
 
   embed {
-    max-width: 33rem;
-    max-height: 44rem;
+    display: none;
   }
 }
 
